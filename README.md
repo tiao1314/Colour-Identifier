@@ -1,5 +1,5 @@
 <p align="center">
-    <h1 align="center">Color Detector</h1>
+    <h1 align="center">Color Identifier</h1>
     <p align="center">
     </p>
     <p align="center">
